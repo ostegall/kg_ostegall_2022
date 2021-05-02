@@ -1,8 +1,8 @@
 # kg_ostegall_2022
 
-A project for the Kargo Summer Internship
+## A project for the Kargo Summer Internship
 
-This program will input any number in the console and output each numerical digit in its word form.
+This program will input any number entered into the console and output each numerical digit in its word form.
 
 For example, inputting this command in the console:
 
